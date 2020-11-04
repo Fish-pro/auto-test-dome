@@ -1,0 +1,1 @@
+python -m pytest cases/login_super --html=report.html --self-contained-html
